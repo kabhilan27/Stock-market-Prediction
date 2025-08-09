@@ -1,0 +1,40 @@
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Model files (large binaries)
+*.h5
+*.keras
+*.pkl
+
+# Reports and generated data
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.csv
+
+# Streamlit temporary files
+.streamlit/
+
+# IDE specific
+.vscode/
+.idea/
